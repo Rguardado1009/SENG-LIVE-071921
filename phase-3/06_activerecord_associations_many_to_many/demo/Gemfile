@@ -14,9 +14,9 @@ group :development do
 
 end
 
-gem "activesupport", "~> 6.1"
+gem "activesupport", "~> 7.0"
 
 gem "sqlite3", "~> 1.4"
 
-gem "activerecord", "~> 6.1"
+gem "activerecord", "~> 7.0"
 gem "sinatra-activerecord", "~> 2.0"
