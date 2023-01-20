@@ -3,7 +3,7 @@ source 'http://rubygems.org'
 gem 'rack-contrib', '~> 2.3', :require => 'rack/contrib'
 gem 'sinatra-cross_origin'
 
-gem 'activerecord', '~> 5.2'
+gem 'activerecord', '~> 6.1'
 gem 'sinatra-activerecord'
 gem 'rake'
 
